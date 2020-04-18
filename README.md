@@ -1,3 +1,3 @@
 # House-Price
 
-Problema de la ocmpetencia Kaggle
+Problema de la competencia Kaggle
